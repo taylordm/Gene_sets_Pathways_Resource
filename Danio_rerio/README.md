@@ -22,19 +22,33 @@ Also findable as http://current.geneontology.org/products/pages/downloads.html
 Method: Parsed out the GO ZFIN_GO file w.python based on danio rerio species.
 
 #Decisions for which tree based on the relationship in the gaf.
+
 #Relationship example_goterm  Assigned_home_tree
+
 #involved_in  GO:0007224  bp
+
 #acts_upstream_of_or_within	GO:0007399	bp
+
 #acts_upstream_of	GO:0006556	bp
+
 #acts_upstream_of_negative_effect	GO:0006412	bp
+
 #acts_upstream_of_or_within_positive_effect	GO:0030318	bp
+
 #acts_upstream_of_positive_effect	GO:0044332	bp
+
 #acts_upstream_of_or_within_negative_effect	GO:0030509	bp
+
 #part_of	GO:0031105	cc
+
 #located_in	GO:0016020	cc
+
 #colocalizes_with	GO:0097649	cc
+
 #is_active_in	GO:0030027	cc
+
 #enables	GO:0019215	mf
+
 #contributes_to	GO:0008176	mf
 
 
