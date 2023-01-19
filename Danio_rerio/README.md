@@ -8,16 +8,18 @@ Sources currently used for .gmt files. Versions from each resource are noted on 
 Downloaded from https://reactome.org/download/current/NCBI2ReactomeReactions.txt
 (note this links to the current version)
 
-
 ### Gene Ontology
 Source: ZFIN
 Translated gaf file into a gmt on GO IDs, then transformed the GO ID into the descriptive name using Bioconductor's org.Dr.eg.db_3.16.0. 
 Separated into GO BP, GO CC and GO MF trees by annotations in the gaf.
 
 Link source: https://zfin.org/downloads
+
 Link sourced as https://current.geneontology.org/annotations/zfin.gaf.gz
+
 Also findable as http://current.geneontology.org/products/pages/downloads.html
-parsed out the GO ZFIN_GO file w.python based on danio rerio species.
+
+Method: Parsed out the GO ZFIN_GO file w.python based on danio rerio species.
 
 #Decisions for which tree based on the relationship in the gaf.
 #Relationship example_goterm  Assigned_home_tree
