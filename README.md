@@ -6,7 +6,7 @@ Currently providing .gmt files sourced from various repositories as noted.
 
 If publishing data using this resource, please list as: 
 
-"Taylor, Deanne M.  The Gene Set and Pathway Resource. https://github.com/taylordm/Gene_sets_Pathways_Resource/ "
+"Taylor, Deanne M.  The Gene Sets and Pathways Resource. https://github.com/taylordm/Gene_sets_Pathways_Resource/ "
 
 
 
